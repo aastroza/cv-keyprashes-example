@@ -1,0 +1,78 @@
+﻿CURRÍCULUM VITAE
+ 
+1. DATOS PERSONALES
+Nombres  Completo: Sebastián Esteban Cisternas Guzmán. 
+R.U.N.: 16.442.611-4
+Lugar y Fecha de Nacimiento: La Serena, Chile, 23 de Octubre 1986.
+Residencia: Santa María #1018, Valdivia, Chile.
+Teléfono móvil: 83343664.
+Correo electrónico: sebastian.cisternas.g@gmail.com
+    Estado Civil: Soltero.
+    Nacionalidad: Chilena.
+    Título Profesional: Ingeniero en Informática.
+    Certificaciones: ICDL (Licencia Internacional para Conducir Computadores).
+
+2. OBJETIVO.
+El presente currículo tiene como objetivo la presentación y postulación a empleos u oportunidades laborales.
+
+3. ANTECEDENTES EDUCACIONALES
+
+       3.1 Estudios Básicos
+
+	- Colegio Rayen Caven, Con-Cón V Región        (1993 - 2000).
+      
+      3.2 Estudios Medios
+
+	-Colegio Santa Cruz, Río Bueno XIV Región      (2001 - 2004).
+
+      3.3 Estudios Superior
+
+	-Ingeniería Civil Informática Universidad austral de Chile (2005). 
+
+           	-Ingeniería Informática, Universidad Tecnológica de Chile, Inacap Sede Valdivia  
+       (Segundo semestre 2006-2009).
+      
+    3.4 Certificaciones
+
+	-Certificación ICDL (Licencia Internacional para Conducir Computadores) (2009).
+ 
+
+
+
+4. CONOCIMIENTOS TECNICOS
+
+* Entornos de Programación: Visual Studio .net (C#, J#, Visual Basic, ASP.net ), Java Development Kit (JDK), Unity 3D.
+* Programación y Diseño de aplicaciones Web: HTML, XHTML, CSS, JavaScript, XML, XSL, XSD, Adobe Flash, PHP, ASP, Tecnología AJAX (Web 2.0), MySQL, ActionScripts.
+* Otros Lenguajes de Programación: C++, ActionScripts (versión 2 y 3), JAVA, C#, BASIC.
+* Servidores Web: Apache II, IIS.
+* Bases de datos: SQL Server, MySql.
+* Manejo de Idiomas: Ingles nivel medio.
+* Diseño Lógico de aplicaciones y Bases de Datos: Metodología UML, Modelado de Bases de Datos Relacionales.
+* Sistemas Operativos: Windows, Linux y Mac OSX.
+* Redes de Comunicaciones: Redes de área local Ethernet
+* Otros Conocimientos: Adobe Photoshop, Adobe Flash, Freehand,   Adobe Dreamweaver, Zend Studio, Oxygen XML, Edición de Audio (básico), Modelado 3D (básico), Manejo de Teoría 3D, Experiencia en Desarrollo de Video Juegos 3D.
+
+
+
+5. ANTECEDENTES LABORALES
+
+* Trabajos independientes en desarrollo de sistemas y sitios Web de diversa índole a partir del año 2007.
+* Desarrollo Independiente  constante desarrollo de proyectos de software en base a diferentes herramientas de desarrollo.
+* Arista Ltda. Efectuando labores varias de asesoría computacional, auditoria, servicio técnico (Enero del 2008 - Marzo 2008).
+* Auditoria de Sistemas  a Punto Copec Aníbal Pinto Valdivia prestando servicios a Arista Ltda. (Febrero 2008).
+* Re ingeniería de Sistema ERP para Aserraderos Paillaco S.A (APSA) (Mayo  2008 - Junio 2008).
+* Desarrollo de Video Juego 3D Para Núcleo Científico Milenio Forecos, Universidad Austral de Chile (Septiembre 2008 -  Enero 2009).
+* Desarrollo de Aplicaciones, Sistemas Web, etc. Para  Krayon Media, Valdivia (Septiembre 2008 - Actualmente).
+
+
+4. DATOS DE INTERES
+
+-Conocimientos Informáticos a Nivel Experto (Hardware y Software), gran interés por las nuevas tecnologías, espíritu innovador, alto grado de compromiso y responsabilidad.
+             
+	
+
+
+
+
+      Sebastián Cisternas Guzmán
+           16.442.611-4

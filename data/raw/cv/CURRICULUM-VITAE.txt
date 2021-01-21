@@ -1,0 +1,124 @@
+﻿CURRICULUM VITAE
+FELIPE VALENZUELA RIFFO
+
+
+I.- DATOS PERSONALES						_________________
+
+* Nombre Completo			: Felipe Antonio Valenzuela Riffo
+* Sexo					: Masculino
+* Fecha de nacimiento			: 22 de Julio de 1989
+* Nacionalidad				: Chileno
+* Cédula de identidad			: 17.343.234-8
+* Estado civil				: Soltero
+* Dirección 				: 5 1/2 Poniente A #2041, Talca. 
+* Ciudad y país de residencia		: Talca, Chile.
+* Teléfono móvil			: 91388499
+* E-mail					: Felipe.v.r@hotmail.com
+: Felipe.v.r.89@gmail.com
+: Fvalenzuelar@alumnos.utalca.cl
+
+
+II.- ANTECEDENTES ACADEMICOS					____________
+
+* Educación Media Completa
+
+(2004-2007)	Colegio Particular Montessori Talca.
+
+* Educación Superior
+
+(2008 - 2014)	Ingeniería en Bioinformática, Universidad de Talca,                                   Talca.
+
+III.- OTRAS ACTIVIDADES DE FORMACIÓN			____________
+
+
+* Asistencia a congresos:
+
+(2011)	Valenzuela F., Gaete J, Peña C. "Inserciones de Burbujas en Dendrímeros para la Detección y Medición de Cavidades Internas". WorkShop in Computational biology. Curico, Chile (Octubre, 2011).
+
+(2012)	Valenzuela F., Guerra F. "Evaluation in silico of the copper-binding ability of a Kunitz trypsin inhibitor in poplars (Populus spp). XXXV Reunión Anual Sociedad de Bioquímica y Biología Molecular de Chile, Puerto Varas, Chile (Octubre, Chile).
+	
+(2013)	Valenzuela F., Morales-Quintana L., Gaete-Eastman C., Herrera R., Moya-León A. "Structural characterization and binding mode analysis of FcEXPA2 from Fragaria chiloensis". WorkShop Fruit Biotechnology, Talca, Chile (Noviembre, 2013).
+
+Valenzuela F., Morales-Quintana L., Gaete-Eastman C., Herrera R., Moya-León A. "Molecular modelling and docking simulations of FcEXPA2 from Fragaria chiloensis". VIII Reunion Biología Vegetal, Pucon, Chile (Diciembre, 2013).
+
+(2014)	Valenzuela F., Gaete-Eastman C., Herrera R., Moya-León M.A., Morales-Quintana. "Structural characterization and molecular docking simulation of FcEXPA1 and FcEXPA2 from Fragaria chiloensis (L). Duch". XXXVII Reunion Anual Sociedad de Bioquímica y Biología Molecular de Chile, Puerto Varas, Chile (Septiembre, 2014).
+
+	Valenzuela F., Gaete-Eastman C., Herrera R., Moya-León M.A., Morales-Quintana. "Structural characterization and molecular docking simulation of FcEXPA1 and FcEXPA2 from Fragaria chiloensis (L). Duch". Primer Congreso de Ingeniería en Bioinformática, Talca, Chile (Octubre, 2014).
+
+Valenzuela F., Parra-Palma C., Tapia G., Morales-Quintana. L. "Role of R45 residue in the binding mode of LjLTP10 a LTP related with drought stress in Lotus japonicus". II Workshop of structural biology and nanophysiology. Santiago, Chile (Noviembre, 2014).
+
+Valenzuela F., Gaete-Eastman C., Herrera R., Moya-León M.A., Morales-Quintana. "Structural characterization and molecular docking simulation of FcEXPA1 and FcEXPA2 from Fragaria chiloensis (L). Duch". Workshop of Integrative biology. Talca, Chile (Noviembre, 2014).
+
+Gaete-Eastman C., Valenzuela F., Morales-Quintana L., Herrera R. and Moya-León M.A. "Fruit-related expansins: old questions, new tools". IX Reunión anual de Biología Vegetal. La Serena, Chile (Diciembre, 2014).
+
+
+
+
+
+
+
+
+
+
+
+
+* Cursos
+
+(2009)	Curso de verano de Arquitectura de computadores, Universidad de Talca, Talca.
+
+(2012)	Curso ICGEB, Advances in bioinformatics tools for the analysis of high-throughput omics data, Santiago, Chile.
+
+(2013)	Curso Computational Biochemistry Methods & Applications, Universidad Andres Bello, Concepción, Chile.
+
+
+IV.- EXPERIENCIA LABORAL____________________________________		
+
+
+(2012)	Práctica Profesional I: Titulada "Evaluación in silico de la capacidad de unión a cobre de un inhibidor de tripsina de Kunitz en álamos (Populus spp)". Dirigida por: Dr. Fernando Guerra.
+
+(2013)	Ayudante de laboratorio. Curso de Taller Experimental de Biotecnología. Profesor Dr. Freddy Mora. Universidad de Talca
+
+Participación en proyecto anillo "Advanced center for the integrative study of fruit ripening: Molecular and physiological basis of complex quality traits of the Chilian Strawberry" como tesista de pregrado.
+
+(2013)	Desarrolla tesis conducente al título de Ingeniero Bioinformático, titulada: "Caracterización estructural de las proteínas FcEXPA1 y FcEXPA2 asociadas al desarrollo y maduración de Fragaria chiloensis (L). DUCH". Dirigida por: Dr. Luis Morales-Quintana.
+
+(2014)	Practica Profesional II: Titulada "Caracterización del gen FcEXPA5 de Fragaria chiloensis". Instituto de Ciencias Biológicas, Universidad de Talca. Tutor: Dr. Carlos Gaete.
+
+(Semestre Otoño) Ayudante de laboratorio Curso Bioquímica, Carrera Ingeniería en Bioinformática. Profesor Dr. Raúl Herrera. Universidad de Talca.
+
+(Semestre Primavera) Ayudante Curso Bioquímica, Carrera kinesiología. Profesor Dr. Raúl Herrera. Universidad de Talca.
+
+Participación en proyecto anillo "Advanced center for the integrative study of fruit ripening: Molecular and physiological basis of complex quality traits of the Chilian Strawberry" como asistente de Investigación.
+
+V.- IDIOMAS										
+
+* Conocimientos de idiomas (básico, medio, alto)
+
+InglésNivel de comprensiónMedioNivel de conversaciónMedioNivel de escrituraMedioNivel de lecturaMedio
+VI.- INFORMÁTICA									
+
+* Conocimiento en programación lenguajes: C, C++, Java, HTML, Perl, R, Bioperl, Python, biophyton, entre otros.
+* Manejo de herramientas Microsoft Office avanzado.
+* Manejo técnicas de modelamiento tridimensional de proteínas.
+* Manejo de técnicas de acoplamiento molecular.
+* Manejo de técnicas de dinámica molecular.
+* Manejo de técnicas de MM-GBSA.
+* Conocimiento de manejo de secuencias obtenidas experimentalmente, mediante herramientas bioinfomáticas.
+
+VII.- TECNICAS DE LABORATORIO							
+
+* Extracción ARN.
+* Extracción de ADN.
+* Síntesis de ADNc.
+* Cuantificación y análisis de genes mediante qPCR Real Time.
+* Reacción de cadena de la polimerasa (PCR).
+* Electroforesis en gel agarosa.
+* Obtención de genes a través de técnica RACE-PCR.
+* Transformación de bacterias mediante técnica de shock químico y electroporación.
+
+
+
+
+Felipe A Valenzuela R.
+17.343.234-8
+
